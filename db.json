@@ -1,0 +1,95 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "make": "Mercedes",
+        "model": "S-Class",
+        "year": 2022,
+        "price": "$95,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mercedes-Benz_W223_IMG_6663.jpg",
+        "specs": "Engine: V6, 3.0L Twin-Turbo, Horsepower: 429 hp, Torque: 384 lb-ft, Transmission: 9-Speed Automatic"
+      },
+      {
+        "id": 2,
+        "make": "BMW",
+        "model": "7 Series",
+        "year": 2023,
+        "price": "$90,500",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BMW_i7_xDrive60_1X7A7269.jpg/1920px-BMW_i7_xDrive60_1X7A7269.jpg",
+        "specs": "Engine: V8, 4.4L Twin-Turbo, Horsepower: 523 hp, Torque: 553 lb-ft, Transmission: 8-Speed Automatic"
+      },
+      {
+        "id": 3,
+        "make": "Audi",
+        "model": "A8",
+        "year": 2023,
+        "price": "$88,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2018_Audi_A8_50_TDi_Quattro_Automatic_3.0.jpg/1920px-2018_Audi_A8_50_TDi_Quattro_Automatic_3.0.jpg",
+        "specs": "Engine: V6, 3.0L Turbo, Horsepower: 335 hp, Torque: 369 lb-ft, Transmission: 8-Speed Automatic"
+      },
+      {
+        "id": 4,
+        "make": "Lamborghini",
+        "model": "Huracan",
+        "year": 2022,
+        "price": "$260,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lamborghini_Huracan_EVO_coup%C3%A8_in_Giallo_Inti.jpg/1280px-Lamborghini_Huracan_EVO_coup%C3%A8_in_Giallo_Inti.jpg",
+        "specs": "Engine: V10, 5.2L Naturally Aspirated, Horsepower: 631 hp, Torque: 443 lb-ft, Transmission: 7-Speed Dual-Clutch"
+      },
+      {
+        "id": 5,
+        "make": "Ferrari",
+        "model": "F8 Tributo",
+        "year": 2023,
+        "price": "$280,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2021_Ferrari_F8_Tributo.jpg/1280px-2021_Ferrari_F8_Tributo.jpg",
+        "specs": "Engine: V8, 3.9L Twin-Turbo, Horsepower: 710 hp, Torque: 568 lb-ft, Transmission: 7-Speed Dual-Clutch"
+      },
+      {
+        "id": 6,
+        "make": "Porsche",
+        "model": "911 Carrera",
+        "year": 2023,
+        "price": "$125,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/1280px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg",
+        "specs": "Engine: Flat-6, 3.0L Twin-Turbo, Horsepower: 379 hp, Torque: 331 lb-ft, Transmission: 8-Speed PDK"
+      },
+      {
+        "id": 7,
+        "make": "Aston Martin",
+        "model": "DB11",
+        "year": 2022,
+        "price": "$205,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aston_Martin_DB11_Volante_Free_Car_Picture_-_Give_Credit_Via_Link_%28cropped%29.jpg/1280px-Aston_Martin_DB11_Volante_Free_Car_Picture_-_Give_Credit_Via_Link_%28cropped%29.jpg",
+        "specs": "Engine: V8, 4.0L Twin-Turbo, Horsepower: 503 hp, Torque: 498 lb-ft, Transmission: 8-Speed Automatic"
+      },
+      {
+        "id": 8,
+        "make": "Rolls-Royce",
+        "model": "Phantom",
+        "year": 2023,
+        "price": "$460,000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/420px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg",
+        "specs": "Engine: V12, 6.75L Twin-Turbo, Horsepower: 563 hp, Torque: 664 lb-ft, Transmission: 8-Speed Automatic"
+      },
+      {
+        "id": 9,
+        "make": "Bentley",
+        "model": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg/1920px-Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg",
+        "year": 2022,
+        "price": "$240,000",
+        "image": "bentley-continental-gt.jpg",
+        "specs": "Engine: W12, 6.0L Twin-Turbo, Horsepower: 626 hp, Torque: 664 lb-ft, Transmission: 8-Speed Dual-Clutch"
+      },
+      {
+        "id": 10,
+        "make": "Lexus",
+        "model": "LS 500",
+        "year": 2023,
+        "price": "$95,500",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2019_Lexus_LS_500_AWD_beige%2C_front_Hagerty_6.1.19.jpg/1920px-2019_Lexus_LS_500_AWD_beige%2C_front_Hagerty_6.1.19.jpg",
+        "specs": "Engine: V6, 3.5L Twin-Turbo, Horsepower: 416 hp, Torque: 442 lb-ft, Transmission: 10-Speed Automatic"
+      }
+    ]
+  }
+  
